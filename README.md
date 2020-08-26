@@ -9,3 +9,5 @@
 4. [BOJ #1463](https://github.com/Puilin/Study/blob/master/BOJ/1463.py) (성공)
 5. [BOJ #9095](https://github.com/Puilin/Study/blob/master/BOJ/9095.py) (성공 / 재귀버전)
 6. [BOJ #9095](https://github.com/Puilin/Study/blob/master/BOJ/9095-2.py) (성공 / DP버전)
+7. [BOJ #2839](https://github.com/Puilin/Study/blob/master/BOJ/2839.py) (성공 / 중첩for문)
+8. [BOJ #1463](https://github.com/Puilin/Study/blob/master/BOJ/2839-2.py) (성공 / DP버전)
