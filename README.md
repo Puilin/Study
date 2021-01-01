@@ -12,3 +12,4 @@
 7. [BOJ #2839](https://github.com/Puilin/Study/blob/master/BOJ/2839.py) (성공 / 중첩for문)
 8. [BOJ #2839](https://github.com/Puilin/Study/blob/master/BOJ/2839-2.py) (성공 / DP버전)
 9. [BOJ #11726](https://github.com/Puilin/Study/blob/master/BOJ/11726.py) (성공 / DP)
+10. [BOJ #5543](https://github.com/Puilin/Study/blob/master/BOJ/5543.java) (성공 / DP)
