@@ -14,3 +14,4 @@
 9. [BOJ #11726](https://github.com/Puilin/Study/blob/master/BOJ/11726.py) (성공 / DP)
 10. [BOJ #5543](https://github.com/Puilin/Study/blob/master/BOJ/5543.java) (성공)
 11. [BOJ #11399](https://github.com/Puilin/Study/blob/master/BOJ/11399.java) (성공)
+12. [BOJ #2579](https://github.com/Puilin/Study/blob/master/BOJ/2579.java) (성공)
