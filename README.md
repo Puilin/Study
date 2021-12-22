@@ -1,5 +1,10 @@
 # Study
 
+## To be improved
+1. [BOJ #1912](https://github.com/Puilin/Study/blob/master/BOJ/1193.py)
+    * 시간초과
+    * T(n) = O(n^2) 이상
+
 ## BOJ
 1. [BOJ #1193](https://github.com/Puilin/Study/blob/master/BOJ/1193.py)
     * 해결할 것 : 시간초과 (코드는 작동함)
