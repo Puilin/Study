@@ -7,7 +7,7 @@
 
 ## BOJ
 1. [BOJ #1193](https://github.com/Puilin/Study/blob/master/BOJ/1193.py)
-    * 해결할 것 : 시간초과 (코드는 작동함)
+(성공)
 2. [BOJ #1003](https://github.com/Puilin/Study/blob/master/BOJ/1003.py)
     * 해결할 것 : 시간초과 (코드는 작동함)
 3. [BOJ #9461](https://github.com/Puilin/Study/blob/master/BOJ/9461.py) (성공)
