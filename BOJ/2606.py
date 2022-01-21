@@ -5,10 +5,24 @@ M = int(input())
 
 adj = [[] for _ in range(N+1)]
 
-for i in range(M):
+for _ in range(M):
     x, y = tuple(map(int, input().split()))
     adj[x].append(y)
 
+def dfs(x):
+    if len(adj[x]) == 0:
+        return
+    global count
+    count += 1 # 방문처리
+    for item in adj[x]:
+        dfs(item)
+
+count = 0
+dfs(1)
+print("dfs")
+print(count)
+
+# bfs
 queue = deque(adj[1]) # [2,5]
 history = []
 while queue:
@@ -18,4 +32,5 @@ while queue:
     for i in adj[now]:
         queue.append(i)
 
+print("bfs")
 print(len(history))
